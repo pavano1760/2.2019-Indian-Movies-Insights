@@ -3,3 +3,12 @@
 
 
 ![](https://github.com/pavano1760/Documents/blob/master/2.Project_2019_movies/__results___1_0.png)
+
+
+![](https://github.com/pavano1760/Documents/blob/master/2.Project_2019_movies/__results___22_0.png)
+
+![](https://github.com/pavano1760/Documents/blob/master/2.Project_2019_movies/__results___31_0.png)
+
+### What are these images are telling?? Just look this Notebook
+
+![](https://github.com/pavano1760/2019-Indian-Movies-Insights/blob/master/2019%20Bollywood%20Movies%20EDA.ipynb)
