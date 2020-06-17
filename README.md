@@ -10,4 +10,4 @@
 
 ## What are these images are telling??? Just look here
 
-![Python Notebook](https://github.com/pavano1760/2019-Indian-Movies-Insights/blob/master/2019%20Bollywood%20Movies%20EDA.ipynb)
+[Python Notebook](https://github.com/pavano1760/2019-Indian-Movies-Insights/blob/master/2019%20Bollywood%20Movies%20EDA.ipynb)
